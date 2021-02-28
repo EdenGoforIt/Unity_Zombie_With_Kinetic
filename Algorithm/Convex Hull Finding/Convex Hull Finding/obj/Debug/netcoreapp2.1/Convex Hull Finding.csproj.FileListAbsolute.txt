@@ -1,0 +1,11 @@
+C:\Users\algo\source\repos\Convex Hull Finding\Convex Hull Finding\bin\Debug\netcoreapp2.1\Convex Hull Finding.deps.json
+C:\Users\algo\source\repos\Convex Hull Finding\Convex Hull Finding\bin\Debug\netcoreapp2.1\Convex Hull Finding.runtimeconfig.json
+C:\Users\algo\source\repos\Convex Hull Finding\Convex Hull Finding\bin\Debug\netcoreapp2.1\Convex Hull Finding.runtimeconfig.dev.json
+C:\Users\algo\source\repos\Convex Hull Finding\Convex Hull Finding\bin\Debug\netcoreapp2.1\Convex Hull Finding.dll
+C:\Users\algo\source\repos\Convex Hull Finding\Convex Hull Finding\bin\Debug\netcoreapp2.1\Convex Hull Finding.pdb
+C:\Users\algo\source\repos\Convex Hull Finding\Convex Hull Finding\obj\Debug\netcoreapp2.1\Convex Hull Finding.csprojAssemblyReference.cache
+C:\Users\algo\source\repos\Convex Hull Finding\Convex Hull Finding\obj\Debug\netcoreapp2.1\Convex Hull Finding.csproj.CoreCompileInputs.cache
+C:\Users\algo\source\repos\Convex Hull Finding\Convex Hull Finding\obj\Debug\netcoreapp2.1\Convex Hull Finding.AssemblyInfoInputs.cache
+C:\Users\algo\source\repos\Convex Hull Finding\Convex Hull Finding\obj\Debug\netcoreapp2.1\Convex Hull Finding.AssemblyInfo.cs
+C:\Users\algo\source\repos\Convex Hull Finding\Convex Hull Finding\obj\Debug\netcoreapp2.1\Convex Hull Finding.dll
+C:\Users\algo\source\repos\Convex Hull Finding\Convex Hull Finding\obj\Debug\netcoreapp2.1\Convex Hull Finding.pdb

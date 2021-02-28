@@ -1,0 +1,10 @@
+C:\Users\algo\source\repos\ConvexHullGui\ConvexHullGui\bin\Debug\ConvexHullGui.exe.config
+C:\Users\algo\source\repos\ConvexHullGui\ConvexHullGui\bin\Debug\ConvexHullGui.exe
+C:\Users\algo\source\repos\ConvexHullGui\ConvexHullGui\bin\Debug\ConvexHullGui.pdb
+C:\Users\algo\source\repos\ConvexHullGui\ConvexHullGui\obj\Debug\ConvexHullGui.csprojAssemblyReference.cache
+C:\Users\algo\source\repos\ConvexHullGui\ConvexHullGui\obj\Debug\ConvexHullGui.Form1.resources
+C:\Users\algo\source\repos\ConvexHullGui\ConvexHullGui\obj\Debug\ConvexHullGui.Properties.Resources.resources
+C:\Users\algo\source\repos\ConvexHullGui\ConvexHullGui\obj\Debug\ConvexHullGui.csproj.GenerateResource.cache
+C:\Users\algo\source\repos\ConvexHullGui\ConvexHullGui\obj\Debug\ConvexHullGui.csproj.CoreCompileInputs.cache
+C:\Users\algo\source\repos\ConvexHullGui\ConvexHullGui\obj\Debug\ConvexHullGui.exe
+C:\Users\algo\source\repos\ConvexHullGui\ConvexHullGui\obj\Debug\ConvexHullGui.pdb

@@ -1,0 +1,11 @@
+C:\Users\algo\source\repos\HerdingFrost\HerdingFrost\bin\Debug\netcoreapp2.1\HerdingFrost.deps.json
+C:\Users\algo\source\repos\HerdingFrost\HerdingFrost\bin\Debug\netcoreapp2.1\HerdingFrost.runtimeconfig.json
+C:\Users\algo\source\repos\HerdingFrost\HerdingFrost\bin\Debug\netcoreapp2.1\HerdingFrost.runtimeconfig.dev.json
+C:\Users\algo\source\repos\HerdingFrost\HerdingFrost\bin\Debug\netcoreapp2.1\HerdingFrost.dll
+C:\Users\algo\source\repos\HerdingFrost\HerdingFrost\bin\Debug\netcoreapp2.1\HerdingFrost.pdb
+C:\Users\algo\source\repos\HerdingFrost\HerdingFrost\obj\Debug\netcoreapp2.1\HerdingFrost.csprojAssemblyReference.cache
+C:\Users\algo\source\repos\HerdingFrost\HerdingFrost\obj\Debug\netcoreapp2.1\HerdingFrost.csproj.CoreCompileInputs.cache
+C:\Users\algo\source\repos\HerdingFrost\HerdingFrost\obj\Debug\netcoreapp2.1\HerdingFrost.AssemblyInfoInputs.cache
+C:\Users\algo\source\repos\HerdingFrost\HerdingFrost\obj\Debug\netcoreapp2.1\HerdingFrost.AssemblyInfo.cs
+C:\Users\algo\source\repos\HerdingFrost\HerdingFrost\obj\Debug\netcoreapp2.1\HerdingFrost.dll
+C:\Users\algo\source\repos\HerdingFrost\HerdingFrost\obj\Debug\netcoreapp2.1\HerdingFrost.pdb

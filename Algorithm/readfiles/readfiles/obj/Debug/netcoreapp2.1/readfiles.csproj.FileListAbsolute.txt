@@ -1,0 +1,11 @@
+C:\Users\algo\source\repos\readfiles\readfiles\bin\Debug\netcoreapp2.1\readfiles.deps.json
+C:\Users\algo\source\repos\readfiles\readfiles\bin\Debug\netcoreapp2.1\readfiles.runtimeconfig.json
+C:\Users\algo\source\repos\readfiles\readfiles\bin\Debug\netcoreapp2.1\readfiles.runtimeconfig.dev.json
+C:\Users\algo\source\repos\readfiles\readfiles\bin\Debug\netcoreapp2.1\readfiles.dll
+C:\Users\algo\source\repos\readfiles\readfiles\bin\Debug\netcoreapp2.1\readfiles.pdb
+C:\Users\algo\source\repos\readfiles\readfiles\obj\Debug\netcoreapp2.1\readfiles.csprojAssemblyReference.cache
+C:\Users\algo\source\repos\readfiles\readfiles\obj\Debug\netcoreapp2.1\readfiles.csproj.CoreCompileInputs.cache
+C:\Users\algo\source\repos\readfiles\readfiles\obj\Debug\netcoreapp2.1\readfiles.AssemblyInfoInputs.cache
+C:\Users\algo\source\repos\readfiles\readfiles\obj\Debug\netcoreapp2.1\readfiles.AssemblyInfo.cs
+C:\Users\algo\source\repos\readfiles\readfiles\obj\Debug\netcoreapp2.1\readfiles.dll
+C:\Users\algo\source\repos\readfiles\readfiles\obj\Debug\netcoreapp2.1\readfiles.pdb

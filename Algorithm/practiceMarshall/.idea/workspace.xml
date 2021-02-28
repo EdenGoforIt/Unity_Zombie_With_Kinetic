@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8500aada-9c32-42ca-9b41-7704fc5d2e6a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Blinnet/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Blinnet/main2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Blinnet/main3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Blinnet/test.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Blinnet/test2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ComparePriorityQueue/floyd.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ComparePriorityQueue/main2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ComparePriorityQueue/main3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ComparePriorityQueue/main4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ComparePriorityQueue/test2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EasyDaikstra/test.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EasyDaikstra/venv/main2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Freckle/anothertest.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Freckle/finaltest.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Freckle/test.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Freckle/test1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Freckle/test2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Freckle/test4.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Freckle/test5.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Freckle/test6.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Freckle/yetanothertest.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Freckle/yetyetanothertest.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MST/heapq.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MST/mainHeap.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MST/test.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice3/main2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShortestWeightDaikstra/test.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TSHPATH/main2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TSHPATH/main3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TSHPATH/test.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Wormhole/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Wormhole/main2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Wormhome2/.idea/Wormhome2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Wormhome2/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Wormhome2/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Wormhome2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Wormhome2/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Wormhome2/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Wormhome2/test.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../practice2/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../practice2/main2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../practice2/main3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../practice2/test.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../practice2/test2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled1/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercise/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Exercise/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ShortestPathWeighted/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ShortestPathWeighted/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SolvingAMaze/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SolvingAMaze/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="12" column="3" selection-start-line="12" selection-start-column="3" selection-end-line="12" selection-end-column="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/main2.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="338">
+              <caret line="32" selection-start-line="32" selection-end-line="32" />
+              <folding>
+                <element signature="e#0#10#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/test.txt" />
+        <option value="$PROJECT_DIR$/main.py" />
+        <option value="$PROJECT_DIR$/main2.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/practiceMarshall.iml" />
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+        <option value="$PROJECT_DIR$/.idea/misc.xml" />
+        <option value="$PROJECT_DIR$/.idea/modules.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="621" />
+    <option name="y" value="123" />
+    <option name="width" value="735" />
+    <option name="height" value="585" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="practiceMarshall" type="b2602c69:ProjectViewProjectNode" />
+              <item name="practiceMarshall" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8500aada-9c32-42ca-9b41-7704fc5d2e6a" name="Default Changelist" comment="" />
+      <created>1565612485004</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1565612485004</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24973656" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="10" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="58">
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="3" selection-start-line="12" selection-start-column="3" selection-end-line="12" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="338">
+          <caret line="32" selection-start-line="32" selection-end-line="32" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

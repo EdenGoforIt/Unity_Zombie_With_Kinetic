@@ -1,0 +1,21 @@
+Hi, we are a team of mad-dog. The history of naming a team name is from the story of our project development. We will tell you the story later on. 
+First, we are going to introduce our project. 
+Our project is about Human computer interaction. it's a technology fosuced on interface between humans and computer. 
+We use Xbox Kinect for Windows created in 2012. We are not using up-to-date technology of Kinect V2 which is the lastest version of Kinect. Because we only have Kinect for windows, we have decided to use these features fully. We made a simple first person shooter game. Using hand gestures, we will control the player. 
+When we tried to play with two hands, the player was moving like a mad dog because while the Kinect is recognizing the left hand, it was recognizing the slight movement of the right hand.
+
+Now we will show you guys how it works in real. 
+
+-----HUNG--------------
+When you want to play. Make your left hand as fist. If you want to quit. Open your left hand fully. Now you are in the game. 
+the left hand is used to control the player and the right hand is used to rotate the player. 
+When we first open the game you can see some objectives to successfully finish the tutorial. We have five objectives. open the door to go to another room , pick up the gun, kill the zombie and shoot the round target and get score over 1000. what we focused on was correcly recognize the gesture and move the player as we intended. 
+We go forward using just one figher and turn right or left using the right hand. Press E button using five fingers. we go to the gun and ammo by pressing E button which is triggered by also five fingers. We turn right by using the right hand again and shoot it using a shooting gesture like this. Now we need to go back again. We do the same as we open the door.
+Now you see the round target. We need to point at the center so we can get higher scores and finish the tutorial quickly.   
+
+Now we successfully finish the tutorial without using a mouse and keyboard. 
+--------------epilogue if necessary----------------------------
+
+
+
+

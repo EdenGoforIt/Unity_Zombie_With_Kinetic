@@ -1,0 +1,10 @@
+C:\Users\algo\source\repos\ConvexHullOne\ConvexHullOne\bin\Debug\ConvexHullOne.exe.config
+C:\Users\algo\source\repos\ConvexHullOne\ConvexHullOne\bin\Debug\ConvexHullOne.exe
+C:\Users\algo\source\repos\ConvexHullOne\ConvexHullOne\bin\Debug\ConvexHullOne.pdb
+C:\Users\algo\source\repos\ConvexHullOne\ConvexHullOne\obj\Debug\ConvexHullOne.csprojAssemblyReference.cache
+C:\Users\algo\source\repos\ConvexHullOne\ConvexHullOne\obj\Debug\ConvexHullOne.Form1.resources
+C:\Users\algo\source\repos\ConvexHullOne\ConvexHullOne\obj\Debug\ConvexHullOne.Properties.Resources.resources
+C:\Users\algo\source\repos\ConvexHullOne\ConvexHullOne\obj\Debug\ConvexHullOne.csproj.GenerateResource.cache
+C:\Users\algo\source\repos\ConvexHullOne\ConvexHullOne\obj\Debug\ConvexHullOne.csproj.CoreCompileInputs.cache
+C:\Users\algo\source\repos\ConvexHullOne\ConvexHullOne\obj\Debug\ConvexHullOne.exe
+C:\Users\algo\source\repos\ConvexHullOne\ConvexHullOne\obj\Debug\ConvexHullOne.pdb

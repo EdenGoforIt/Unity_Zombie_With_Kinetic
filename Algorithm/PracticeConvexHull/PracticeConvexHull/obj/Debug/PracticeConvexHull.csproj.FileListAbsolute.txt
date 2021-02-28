@@ -1,0 +1,10 @@
+C:\Users\algo\source\repos\PracticeConvexHull\PracticeConvexHull\bin\Debug\PracticeConvexHull.exe.config
+C:\Users\algo\source\repos\PracticeConvexHull\PracticeConvexHull\bin\Debug\PracticeConvexHull.exe
+C:\Users\algo\source\repos\PracticeConvexHull\PracticeConvexHull\bin\Debug\PracticeConvexHull.pdb
+C:\Users\algo\source\repos\PracticeConvexHull\PracticeConvexHull\obj\Debug\PracticeConvexHull.csprojAssemblyReference.cache
+C:\Users\algo\source\repos\PracticeConvexHull\PracticeConvexHull\obj\Debug\PracticeConvexHull.Form1.resources
+C:\Users\algo\source\repos\PracticeConvexHull\PracticeConvexHull\obj\Debug\PracticeConvexHull.Properties.Resources.resources
+C:\Users\algo\source\repos\PracticeConvexHull\PracticeConvexHull\obj\Debug\PracticeConvexHull.csproj.GenerateResource.cache
+C:\Users\algo\source\repos\PracticeConvexHull\PracticeConvexHull\obj\Debug\PracticeConvexHull.csproj.CoreCompileInputs.cache
+C:\Users\algo\source\repos\PracticeConvexHull\PracticeConvexHull\obj\Debug\PracticeConvexHull.exe
+C:\Users\algo\source\repos\PracticeConvexHull\PracticeConvexHull\obj\Debug\PracticeConvexHull.pdb

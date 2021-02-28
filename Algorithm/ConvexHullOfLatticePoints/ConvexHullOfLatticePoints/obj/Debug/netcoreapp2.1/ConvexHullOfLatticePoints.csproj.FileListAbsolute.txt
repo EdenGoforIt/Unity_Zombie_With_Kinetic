@@ -1,0 +1,11 @@
+C:\Users\algo\source\repos\ConvexHullOfLatticePoints\ConvexHullOfLatticePoints\bin\Debug\netcoreapp2.1\ConvexHullOfLatticePoints.deps.json
+C:\Users\algo\source\repos\ConvexHullOfLatticePoints\ConvexHullOfLatticePoints\bin\Debug\netcoreapp2.1\ConvexHullOfLatticePoints.runtimeconfig.json
+C:\Users\algo\source\repos\ConvexHullOfLatticePoints\ConvexHullOfLatticePoints\bin\Debug\netcoreapp2.1\ConvexHullOfLatticePoints.runtimeconfig.dev.json
+C:\Users\algo\source\repos\ConvexHullOfLatticePoints\ConvexHullOfLatticePoints\bin\Debug\netcoreapp2.1\ConvexHullOfLatticePoints.dll
+C:\Users\algo\source\repos\ConvexHullOfLatticePoints\ConvexHullOfLatticePoints\bin\Debug\netcoreapp2.1\ConvexHullOfLatticePoints.pdb
+C:\Users\algo\source\repos\ConvexHullOfLatticePoints\ConvexHullOfLatticePoints\obj\Debug\netcoreapp2.1\ConvexHullOfLatticePoints.csprojAssemblyReference.cache
+C:\Users\algo\source\repos\ConvexHullOfLatticePoints\ConvexHullOfLatticePoints\obj\Debug\netcoreapp2.1\ConvexHullOfLatticePoints.csproj.CoreCompileInputs.cache
+C:\Users\algo\source\repos\ConvexHullOfLatticePoints\ConvexHullOfLatticePoints\obj\Debug\netcoreapp2.1\ConvexHullOfLatticePoints.AssemblyInfoInputs.cache
+C:\Users\algo\source\repos\ConvexHullOfLatticePoints\ConvexHullOfLatticePoints\obj\Debug\netcoreapp2.1\ConvexHullOfLatticePoints.AssemblyInfo.cs
+C:\Users\algo\source\repos\ConvexHullOfLatticePoints\ConvexHullOfLatticePoints\obj\Debug\netcoreapp2.1\ConvexHullOfLatticePoints.dll
+C:\Users\algo\source\repos\ConvexHullOfLatticePoints\ConvexHullOfLatticePoints\obj\Debug\netcoreapp2.1\ConvexHullOfLatticePoints.pdb

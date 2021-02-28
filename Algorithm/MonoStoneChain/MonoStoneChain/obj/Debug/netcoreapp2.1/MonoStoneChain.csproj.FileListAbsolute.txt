@@ -1,0 +1,11 @@
+C:\Users\algo\source\repos\MonoStoneChain\MonoStoneChain\bin\Debug\netcoreapp2.1\MonoStoneChain.deps.json
+C:\Users\algo\source\repos\MonoStoneChain\MonoStoneChain\bin\Debug\netcoreapp2.1\MonoStoneChain.runtimeconfig.json
+C:\Users\algo\source\repos\MonoStoneChain\MonoStoneChain\bin\Debug\netcoreapp2.1\MonoStoneChain.runtimeconfig.dev.json
+C:\Users\algo\source\repos\MonoStoneChain\MonoStoneChain\bin\Debug\netcoreapp2.1\MonoStoneChain.dll
+C:\Users\algo\source\repos\MonoStoneChain\MonoStoneChain\bin\Debug\netcoreapp2.1\MonoStoneChain.pdb
+C:\Users\algo\source\repos\MonoStoneChain\MonoStoneChain\obj\Debug\netcoreapp2.1\MonoStoneChain.csprojAssemblyReference.cache
+C:\Users\algo\source\repos\MonoStoneChain\MonoStoneChain\obj\Debug\netcoreapp2.1\MonoStoneChain.csproj.CoreCompileInputs.cache
+C:\Users\algo\source\repos\MonoStoneChain\MonoStoneChain\obj\Debug\netcoreapp2.1\MonoStoneChain.AssemblyInfoInputs.cache
+C:\Users\algo\source\repos\MonoStoneChain\MonoStoneChain\obj\Debug\netcoreapp2.1\MonoStoneChain.AssemblyInfo.cs
+C:\Users\algo\source\repos\MonoStoneChain\MonoStoneChain\obj\Debug\netcoreapp2.1\MonoStoneChain.dll
+C:\Users\algo\source\repos\MonoStoneChain\MonoStoneChain\obj\Debug\netcoreapp2.1\MonoStoneChain.pdb

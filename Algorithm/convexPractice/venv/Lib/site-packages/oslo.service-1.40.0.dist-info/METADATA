@@ -1,0 +1,71 @@
+Metadata-Version: 2.1
+Name: oslo.service
+Version: 1.40.0
+Summary: oslo.service library
+Home-page: https://docs.openstack.org/oslo.service/latest/
+Author: OpenStack
+Author-email: openstack-discuss@lists.openstack.org
+License: UNKNOWN
+Platform: UNKNOWN
+Classifier: Environment :: OpenStack
+Classifier: Intended Audience :: Information Technology
+Classifier: Intended Audience :: System Administrators
+Classifier: License :: OSI Approved :: Apache Software License
+Classifier: Operating System :: POSIX :: Linux
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 2
+Classifier: Programming Language :: Python :: 2.7
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.6
+Requires-Dist: WebOb (>=1.7.1)
+Requires-Dist: debtcollector (>=1.2.0)
+Requires-Dist: eventlet (!=0.18.3,!=0.20.1,>=0.18.2)
+Requires-Dist: fixtures (>=3.0.0)
+Requires-Dist: greenlet (>=0.4.10)
+Requires-Dist: oslo.utils (>=3.40.2)
+Requires-Dist: oslo.concurrency (>=3.25.0)
+Requires-Dist: oslo.config (>=5.1.0)
+Requires-Dist: oslo.log (>=3.36.0)
+Requires-Dist: six (>=1.10.0)
+Requires-Dist: oslo.i18n (>=3.15.3)
+Requires-Dist: PasteDeploy (>=1.5.0)
+Requires-Dist: Routes (>=2.3.1)
+Requires-Dist: Paste (>=2.0.2)
+Requires-Dist: Yappi (>=1.0)
+Requires-Dist: monotonic (>=0.6) ; (python_version<'3.3')
+
+========================
+Team and repository tags
+========================
+
+.. image:: https://governance.openstack.org/tc/badges/oslo.service.svg
+    :target: https://governance.openstack.org/tc/ference/tags/index.html
+
+.. Change things from this point on
+
+========================================================
+ oslo.service -- Library for running OpenStack services
+========================================================
+
+.. image:: https://img.shields.io/pypi/v/oslo.service.svg
+    :target: https://pypi.org/project/oslo.service/
+    :alt: Latest Version
+
+.. image:: https://img.shields.io/pypi/dm/oslo.service.svg
+    :target: https://pypi.org/project/oslo.service/
+    :alt: Downloads
+
+oslo.service provides a framework for defining new long-running
+services using the patterns established by other OpenStack
+applications. It also includes utilities long-running applications
+might need for working with SSL or WSGI, performing periodic
+operations, interacting with systemd, etc.
+
+* Free software: Apache license
+* Documentation: https://docs.openstack.org/oslo.service/latest/
+* Source: https://opendev.org/openstack/oslo.service
+* Bugs: https://bugs.launchpad.net/oslo.service
+* Release notes: https://docs.openstack.org/releasenotes/oslo.service/
+
+
+

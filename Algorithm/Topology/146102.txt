@@ -1,0 +1,19 @@
+8
+Get jack out of boot
+Lower car
+Put jack back in boot
+Jack up car
+Remove wheel with flat
+Put wheel with flat in boot
+Get spare wheel out of boot
+Put spare wheel on car
+0 1
+1 2
+0 3
+3 4
+3 7
+6 7
+7 1
+4 5
+4 7
+6 5

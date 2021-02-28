@@ -1,0 +1,14 @@
+cryptography>=1.0
+pyasn1
+pyasn1-modules
+WebOb>=1.2.3
+pecan>=1.0.0
+Paste
+netaddr!=0.7.16,>=0.7.12
+ldap3>=0.9.8.2
+requests!=2.9.0,>=2.8.1
+stevedore>=1.5.0
+pycadf!=2.0.0,>=1.1.0
+oslo.config>=3.7.0
+oslo.messaging>=4.0.0
+oslo.utils>=3.5.0

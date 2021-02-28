@@ -1,0 +1,11 @@
+C:\Users\algo\source\repos\PracticeConvex\PracticeConvex\bin\Debug\netcoreapp2.1\PracticeConvex.deps.json
+C:\Users\algo\source\repos\PracticeConvex\PracticeConvex\bin\Debug\netcoreapp2.1\PracticeConvex.runtimeconfig.json
+C:\Users\algo\source\repos\PracticeConvex\PracticeConvex\bin\Debug\netcoreapp2.1\PracticeConvex.runtimeconfig.dev.json
+C:\Users\algo\source\repos\PracticeConvex\PracticeConvex\bin\Debug\netcoreapp2.1\PracticeConvex.dll
+C:\Users\algo\source\repos\PracticeConvex\PracticeConvex\bin\Debug\netcoreapp2.1\PracticeConvex.pdb
+C:\Users\algo\source\repos\PracticeConvex\PracticeConvex\obj\Debug\netcoreapp2.1\PracticeConvex.csprojAssemblyReference.cache
+C:\Users\algo\source\repos\PracticeConvex\PracticeConvex\obj\Debug\netcoreapp2.1\PracticeConvex.csproj.CoreCompileInputs.cache
+C:\Users\algo\source\repos\PracticeConvex\PracticeConvex\obj\Debug\netcoreapp2.1\PracticeConvex.AssemblyInfoInputs.cache
+C:\Users\algo\source\repos\PracticeConvex\PracticeConvex\obj\Debug\netcoreapp2.1\PracticeConvex.AssemblyInfo.cs
+C:\Users\algo\source\repos\PracticeConvex\PracticeConvex\obj\Debug\netcoreapp2.1\PracticeConvex.dll
+C:\Users\algo\source\repos\PracticeConvex\PracticeConvex\obj\Debug\netcoreapp2.1\PracticeConvex.pdb

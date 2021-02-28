@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29215.179
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PracticeConvexHull", "PracticeConvexHull\PracticeConvexHull.csproj", "{2976221B-A946-4ABC-8348-3D6E85273725}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2976221B-A946-4ABC-8348-3D6E85273725}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2976221B-A946-4ABC-8348-3D6E85273725}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2976221B-A946-4ABC-8348-3D6E85273725}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2976221B-A946-4ABC-8348-3D6E85273725}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B29B7648-B47E-49AD-A32B-7F3D86F9D81B}
+	EndGlobalSection
+EndGlobal

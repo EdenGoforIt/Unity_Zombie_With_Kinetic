@@ -1,0 +1,11 @@
+C:\Users\algo\source\repos\GCD LCM\bin\Debug\netcoreapp2.1\GCD LCM.deps.json
+C:\Users\algo\source\repos\GCD LCM\bin\Debug\netcoreapp2.1\GCD LCM.runtimeconfig.json
+C:\Users\algo\source\repos\GCD LCM\bin\Debug\netcoreapp2.1\GCD LCM.runtimeconfig.dev.json
+C:\Users\algo\source\repos\GCD LCM\bin\Debug\netcoreapp2.1\GCD LCM.dll
+C:\Users\algo\source\repos\GCD LCM\bin\Debug\netcoreapp2.1\GCD LCM.pdb
+C:\Users\algo\source\repos\GCD LCM\obj\Debug\netcoreapp2.1\GCD LCM.csprojAssemblyReference.cache
+C:\Users\algo\source\repos\GCD LCM\obj\Debug\netcoreapp2.1\GCD LCM.csproj.CoreCompileInputs.cache
+C:\Users\algo\source\repos\GCD LCM\obj\Debug\netcoreapp2.1\GCD LCM.AssemblyInfoInputs.cache
+C:\Users\algo\source\repos\GCD LCM\obj\Debug\netcoreapp2.1\GCD LCM.AssemblyInfo.cs
+C:\Users\algo\source\repos\GCD LCM\obj\Debug\netcoreapp2.1\GCD LCM.dll
+C:\Users\algo\source\repos\GCD LCM\obj\Debug\netcoreapp2.1\GCD LCM.pdb

@@ -1,0 +1,11 @@
+C:\Users\algo\source\repos\PracticalTest\PracticalTest\bin\Debug\netcoreapp2.1\PracticalTest.deps.json
+C:\Users\algo\source\repos\PracticalTest\PracticalTest\bin\Debug\netcoreapp2.1\PracticalTest.runtimeconfig.json
+C:\Users\algo\source\repos\PracticalTest\PracticalTest\bin\Debug\netcoreapp2.1\PracticalTest.runtimeconfig.dev.json
+C:\Users\algo\source\repos\PracticalTest\PracticalTest\bin\Debug\netcoreapp2.1\PracticalTest.dll
+C:\Users\algo\source\repos\PracticalTest\PracticalTest\bin\Debug\netcoreapp2.1\PracticalTest.pdb
+C:\Users\algo\source\repos\PracticalTest\PracticalTest\obj\Debug\netcoreapp2.1\PracticalTest.csprojAssemblyReference.cache
+C:\Users\algo\source\repos\PracticalTest\PracticalTest\obj\Debug\netcoreapp2.1\PracticalTest.csproj.CoreCompileInputs.cache
+C:\Users\algo\source\repos\PracticalTest\PracticalTest\obj\Debug\netcoreapp2.1\PracticalTest.AssemblyInfoInputs.cache
+C:\Users\algo\source\repos\PracticalTest\PracticalTest\obj\Debug\netcoreapp2.1\PracticalTest.AssemblyInfo.cs
+C:\Users\algo\source\repos\PracticalTest\PracticalTest\obj\Debug\netcoreapp2.1\PracticalTest.dll
+C:\Users\algo\source\repos\PracticalTest\PracticalTest\obj\Debug\netcoreapp2.1\PracticalTest.pdb

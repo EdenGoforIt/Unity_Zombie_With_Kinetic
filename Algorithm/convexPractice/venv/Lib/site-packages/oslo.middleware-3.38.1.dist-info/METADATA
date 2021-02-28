@@ -1,0 +1,57 @@
+Metadata-Version: 2.1
+Name: oslo.middleware
+Version: 3.38.1
+Summary: Oslo Middleware library
+Home-page: https://docs.openstack.org/oslo.middleware/latest/
+Author: OpenStack
+Author-email: openstack-discuss@lists.openstack.org
+License: UNKNOWN
+Platform: UNKNOWN
+Classifier: Environment :: OpenStack
+Classifier: Intended Audience :: Information Technology
+Classifier: Intended Audience :: System Administrators
+Classifier: License :: OSI Approved :: Apache Software License
+Classifier: Operating System :: POSIX :: Linux
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 2
+Classifier: Programming Language :: Python :: 2.7
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Requires-Dist: pbr (!=2.1.0,>=2.0.0)
+Requires-Dist: Jinja2 (>=2.10)
+Requires-Dist: oslo.config (>=5.2.0)
+Requires-Dist: oslo.context (>=2.19.2)
+Requires-Dist: oslo.i18n (>=3.15.3)
+Requires-Dist: oslo.utils (>=3.33.0)
+Requires-Dist: six (>=1.10.0)
+Requires-Dist: stevedore (>=1.20.0)
+Requires-Dist: WebOb (>=1.8.0)
+Requires-Dist: debtcollector (>=1.2.0)
+Requires-Dist: statsd (>=3.2.1)
+
+===============
+oslo.middleware
+===============
+
+.. image:: https://img.shields.io/pypi/v/oslo.middleware.svg
+    :target: https://pypi.org/project/oslo.middleware/
+    :alt: Latest Version
+
+.. image:: https://img.shields.io/pypi/dm/oslo.middleware.svg
+    :target: https://pypi.org/project/oslo.middleware/
+    :alt: Downloads
+
+Oslo middleware library includes components that can be injected into
+wsgi pipelines to intercept request/response flows. The base class can be
+enhanced with functionality like add/delete/modification of http headers
+and support for limiting size/connection etc.
+
+* Free software: Apache license
+* Documentation: https://docs.openstack.org/oslo.middleware/latest/
+* Source: https://opendev.org/openstack/oslo.middleware
+* Bugs: https://bugs.launchpad.net/oslo.middleware
+* Release notes: https://docs.openstack.org/releasenotes/oslo.middleware/
+
+
+
